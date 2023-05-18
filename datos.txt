@@ -1,5 +1,0 @@
-123;octavio;ramirez;234234;octavio@gmail.com;cra 22
-987;juan;perez;34545;juan@gmail.com;cra22
-123;juan;ramirez;23234;sdfsdf;sdfsdfsdf
-34345;asda;asdas;asdas;adsasd;asda
-567;manuel;cardenas;34345;manu@gmail.com;cra 22
